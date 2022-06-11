@@ -8,3 +8,11 @@ This is the first Alex's project on GitHub
 Godkewkjdjkdhfs
 fsdfhdskf
 ddfsdljflsdmfjdsfjsdl;fdjsfjlksd;lfkdsljfsdjf;ldskfksdlkjfsdl
+
+
+
+
+
+
+
+Изменения в ветке dev, Новые изменения в ветке dev
